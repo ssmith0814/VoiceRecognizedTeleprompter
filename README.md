@@ -1,3 +1,3 @@
 # VoiceRecognizedTeleprompter
 
-![Voice Recognized Teleprompter Demo](src/DemoVoiceRecognizedTeleprompterDemo.gif)
+![Voice Recognized Teleprompter Demo](src/Demo/VoiceRecognizedTeleprompterDemo.gif)
